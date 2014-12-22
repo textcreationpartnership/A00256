@@ -35,9 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of, vvithin the Diocesse of Sarisbury, in the first visitation of the right 
+
 #####Body#####
-Articles to be enquired of, vvithin the Diocesse of Sarisbury, in the first visitation of the right 
+
+1. Articles concerning the Clargie.
+
+1. Articles concerning the Church.
+
+1. Articles concerning Ecclesiasticall Officers.
+
+1. Articles concerning Schoolemasters.
+
+1. Articles concerning the Parishioners, and other of the Laity.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
